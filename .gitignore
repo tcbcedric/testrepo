@@ -10,3 +10,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/sokobangroep14/nbproject/private/
+/nbproject/private/
+/nbproject/
+/build.xml
+/manifest.mf
+/vpproject/
